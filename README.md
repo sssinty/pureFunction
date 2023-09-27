@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/61q74k4u4mdh6jdv?svg=true)](https://ci.appveyor.com/project/sssinty/purefunction)
